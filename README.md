@@ -34,7 +34,7 @@ jupyter notebook iris_data_exploration.ipynb
 - Loads `iris.csv` into a `pandas` DataFrame.
 - Shows the first rows, data types, and dataset shape.
 - Provides a short, professional description of rows and columns and explains why data types matter.
- 
+
 ## Notes
 
 - The notebook is intended for learning and quick EDA (exploratory data analysis). It is kept minimal and well-documented so you can extend it with visualizations or modeling workflows.
